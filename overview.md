@@ -1,4 +1,4 @@
-# Hardware
+# <span style="color:red">Hardware</span>
 ###	Sensores
   *	imu (inerce measurement unit)
     -	acelerómetro
@@ -60,7 +60,7 @@
   *	3.3v y 5v
 
 
-#	Middleware
+# <span style="color:red">Middleware</span>
 ###	ADC
   -	Msps
   -	Latencia
@@ -79,7 +79,7 @@
   -	Precisión
 
 
-#	Software
+# <span style="color:red">Software</span>
 ###	INTERRUPCIONES
 ###	PID
   -	Calibración
