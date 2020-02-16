@@ -1,121 +1,112 @@
 # Hardware
 
-##	Sensores
+  -	Sensores
 
-###	imu (inerce measurement unit)
-####	acelerómetro
-####	brújula
-####	magnetómetro
-####	altímetro
+    -	imu (inerce measurement unit)
+      -	acelerómetro
+      -	brújula
+      -	magnetómetro
+      -	altímetro
 
-###	sensores infrarojos
-####	infrarojo
+    -	sensores infrarojos
+      -	infrarojo
 
-###	encoders
-####	analógicos
-####	hall
-####	ópticos absolutos
-####	ópticos relativos
+    -	encoders
+      -	analógicos
+      -	hall
+      -	ópticos absolutos
+      -	ópticos relativos
 
-###	cámara/linescan
-####	TSL1401-DB
+    -	cámara/linescan
+      -	TSL1401-DB
 
-###	sensor de inicio/arrancador
+    -	sensor de inicio/arrancador
 
+  -	Procesamiento
 
-##	Procesamiento
+    -	Microcontroladores
+      -	Low energy
+      -	High power
+      -	8bit
+      -	32bit
+      -	Memoria
+      -	Etc
 
-###	Microcontroladores
-####	Low energy
-####	High power
-####	8bit
-####	32bit
-####	Memoria
-####	Etc
+    -	Coprocesamiento
 
-###	Coprocesamiento
+    -	SBC (peso, tamaño, consume energético)
+      -	Raspberry pi zero
+      -	Banana pi zero
 
-###	SBC (peso, tamaño, consume energético)
-####	Raspberry pi zero
-####	Banana pi zero
+    -	Analógico (espacio, rapidez, complejidad)
+      -	Opams
+      -	Comparadores
 
-###	Analógico (espacio, rapidez, complejidad)
-####	Opams
-####	Comparadores
+    -	FPGA (field programable gate array) (flexibilidad)
+      -	ICE
+      -	etc
 
-###	FPGA (field programable gate array) (flexibilidad)
-####	ICE
-####	etc
+  -	Alta potencia (6V@200mA)
+    -	Drivers
+      -	Compensación
+      -	Eficiencia
+      -	Tipos de motores
 
-##	Alta potencia (6V@200mA)
-###	Drivers
-####	Compensación
-####	Eficiencia
-####	Tipos de motores
+    -	Convertidores
+      -	Eficiencia
+      -	Etc.
 
-###	Convertidores
-####	Eficiencia
-####	Etc.
+  -	Actuadores
+    -	Motores
+      -	Brushless
+      -	Escobillas
+      -	PaP
+      -	Motorreductores
 
-##	Actuadores
-###	Motores
-####	Brushless
-####	Escobillas
-####	PaP
-####	Motorreductores
+    -	Ventiladores/Turbinas
+      -	Reglas
+      -	Ventajas y desventajas
 
-###	Ventiladores/Turbinas
-####	Reglas
-####	Ventajas y desventajas
+    -	Llantas
+      -	Tracción
+      -	Masa
+      -	Momento angular
 
-###	Llantas
-####	Tracción
-####	Masa
-####	Momento angular
-
-##	Energía
-###	Baterias
-###	Convertidores
-###	3.3v y 5v
-
-
-
-
-
-
-
-
+  -	Energía
+    -	Baterias
+    -	Convertidores
+    -	3.3v y 5v
 
 
 #	Middleware
 
-##	ADC
-###	Msps
-###	Latencia
-###	Precisión
-###	Desviación
+  -	ADC
+    -	Msps
+    -	Latencia
+    -	Precisión
+    -	Desviación
 
-##	I2C
-###	Velocidad
-###	Arquitectura
-###	Flexibilidad
+  -	I2C
+    -	Velocidad
+    -	Arquitectura
+    -	Flexibilidad
 
-##	SPI
-###	Velocidad
-###	Arquitectura
-###	Flexibilidad
+  -	SPI
+    -	Velocidad
+    -	Arquitectura
+    -	Flexibilidad
 
-##	DAC/PWM
-###	Latencia
-###	Precisión
+  -	DAC/PWM
+    -	Latencia
+    -	Precisión
 
 
 #	Software
 
-##	INTERRUPCIONES
+  -	INTERRUPCIONES
 
-##	PID
-###	Calibración
-###	Eficiencia
+  -	PID
+    -	Calibración
+    -	Eficiencia
 
-##	SLAM
+  -	SLAM
