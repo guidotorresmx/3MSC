@@ -1,5 +1,5 @@
 # Hardware
-##	Sensores
+###	Sensores
   *	imu (inerce measurement unit)
     -	acelerómetro
     -	brújula
@@ -15,7 +15,7 @@
   *	cámara/linescan
     -	TSL1401-DB
   *	sensor de inicio/arrancador
-##	Procesamiento
+###	Procesamiento
   *	Microcontroladores
     -	Low energy
     -	High power
@@ -33,7 +33,7 @@
   *	FPGA (field programable gate array) (flexibilidad)
       -	ICE
       -	etc
-##	Alta potencia (6V@200mA)
+###	Alta potencia (6V@200mA)
   *	Drivers
     -	Compensación
     -	Eficiencia
@@ -41,7 +41,7 @@
   *	Convertidores
     -	Eficiencia
     -	Etc.
-##	Actuadores
+###	Actuadores
   *	Motores
     -	Brushless
     -	Escobillas
@@ -54,34 +54,34 @@
     -	Tracción
     -	Masa
     -	Momento angular
-##	Energía
+###	Energía
   *	Baterias
   *	Convertidores
   *	3.3v y 5v
 
 
 #	Middleware
-##	ADC
+###	ADC
   -	Msps
   -	Latencia
   -	Precisión
   -	Desviación
-##	I2C
+###	I2C
   -	Velocidad
   -	Arquitectura
   -	Flexibilidad
-##	SPI
+###	SPI
   -	Velocidad
   -	Arquitectura
   -	Flexibilidad
-##	DAC/PWM
+###	DAC/PWM
   -	Latencia
   -	Precisión
 
 
 #	Software
-##	INTERRUPCIONES
-##	PID
+###	INTERRUPCIONES
+###	PID
   -	Calibración
   -	Eficiencia
-##	SLAM
+###	SLAM
