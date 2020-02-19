@@ -16,6 +16,9 @@
 ### amazon
    - https://www.amazon.com/JFtech-14000KV-Brushless-Version-AirPlane/dp/B078VVF5ZC/ref=sr_1_2?keywords=ducted+fan+motor&qid=1581847932&sr=8-2
 
+### nomada
+   - https://nomada-e.com/store/robotica/463-reemplazo-de-turbina-30mm.html
+
 ### missing
    - battery
    - battery charger
