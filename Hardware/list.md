@@ -4,10 +4,11 @@
    - https://www.pololu.com/product/950 ball caster
    - https://www.pololu.com/product/3081 encoders
    - https://www.pololu.com/product/3047 o https://www.pololu.com/product/3082 motors
+   - https://www.fingertechrobotics.com/proddetail.php?prod=ft-Gspark16 motors2
    - https://www.pololu.com/product/989 brackets
    - https://www.pololu.com/product/2137 driver [review]
    - https://www.pololu.com/product/2873 converter [review]
-
+   -
 ### tindie
    - https://www.tindie.com/products/tleracorp/butterfly-stm32l433-development-board/ butterfly
    - https://www.tindie.com/products/onehorse/ultimate-sensor-fusion-solution-mpu9250/ imu
